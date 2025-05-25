@@ -4,7 +4,7 @@ In this project Real-time AI assistance and smart message prioritization are int
 
 # Features
 
-Inbox View: Organized conversation list with priority sorting (Waiting longest, 5 Open).
+Inbox View: Organized conversation list with priority sorting (Waiting longest, Open).
 
 Conversation Panel: View and respond to individual customer messages with context.
 
@@ -23,14 +23,15 @@ npm install bootstrap
 Before running or modifying this project, make sure the following stylesheets are included in your HTML (index.html) file to ensure proper styling and icon support:
 
 Add the following inside the <head> section of your index.html:
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.1/font/bootstrap-icons.css">
+
+- Bootstrap CSS (via CDN)
+- Bootstrap Icons (via CDN)
 
 ## Setup Instructions
 
 1. Clone the repository
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/ds2202/smart-support-dashboard.git
+cd smart-support-dashboard
 
 2. Install dependencies
 npm install
