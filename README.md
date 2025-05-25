@@ -4,17 +4,17 @@ In this project Real-time AI assistance and smart message prioritization are int
 
 # Features
 
--Inbox View: Organized conversation list with priority sorting (Waiting longest, Open).
+- Inbox View: Organized conversation list with priority sorting (Waiting longest, Open).
 
--Conversation Panel: View and respond to individual customer messages with context.
+- Conversation Panel: View and respond to individual customer messages with context.
 
--AI Assistant ("Fin AI Copilot"):
+- AI Assistant ("Fin AI Copilot"):
 
--Automatically summarizes or assists with replies.
+- Automatically summarizes or assists with replies.
 
--Suggests common actions (e.g., "How do I get a refund?").
+- Suggests common actions (e.g., "How do I get a refund?").
 
--Keyboard Shortcuts: Speed up your workflow with quick actions (⌘ K).
+- Keyboard Shortcuts: Speed up your workflow with quick actions (⌘ K).
 
 ## Prerequisites
 
